@@ -18,8 +18,8 @@ This repository contains the code and notebook for a deep learning project that 
 ## 📂 Repository Structure
 
 ```bash
-├── DL - Final toUpload.ipynb     # Jupyter notebook with full implementation
-├── accuracy-vs-epoch.png         # Validation accuracy plot
-├── loss-vs-epoch.png             # Training vs. validation loss plot
-├── main.tex                      # LaTeX report (optional)
-└── README.md                     # Project description (you are here)
+├── Roberta_news_classification.ipynb     # Jupyter notebook with full implementation
+├── accuracy-vs-epoch.png         
+├── loss-vs-epoch.png             
+├── main.tex                      # LaTeX report
+└── README.md                     # Project description
