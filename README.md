@@ -21,5 +21,7 @@ This repository contains the code and notebook for a deep learning project that 
 ├── Roberta_news_classification.ipynb     # Jupyter notebook with full implementation
 ├── accuracy-vs-epoch.png         
 ├── loss-vs-epoch.png             
-├── main.tex                      # LaTeX report
-└── README.md                     # Project description
+├── main.tex                     
+└── README.md
+├── inference_output.csv                   
+└── test_unlabelled.pkl
